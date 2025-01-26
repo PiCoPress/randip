@@ -15,3 +15,6 @@ readme = "README.md"
 
 [project.scripts]
 randip = "randip.cli:main"
+
+[project.urls]
+Repository = "https://github.com/PICOPress/randip.git"
